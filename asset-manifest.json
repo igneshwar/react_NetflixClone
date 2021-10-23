@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/igneshwar/react_NetflixClone/static/js/main.bc5d780f.chunk.js",
+    "main.js.map": "/igneshwar/react_NetflixClone/static/js/main.bc5d780f.chunk.js.map",
+    "runtime-main.js": "/igneshwar/react_NetflixClone/static/js/runtime-main.262d7dfb.js",
+    "runtime-main.js.map": "/igneshwar/react_NetflixClone/static/js/runtime-main.262d7dfb.js.map",
+    "static/js/2.8d1e75af.chunk.js": "/igneshwar/react_NetflixClone/static/js/2.8d1e75af.chunk.js",
+    "static/js/2.8d1e75af.chunk.js.map": "/igneshwar/react_NetflixClone/static/js/2.8d1e75af.chunk.js.map",
+    "index.html": "/igneshwar/react_NetflixClone/index.html",
+    "static/js/2.8d1e75af.chunk.js.LICENSE.txt": "/igneshwar/react_NetflixClone/static/js/2.8d1e75af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.262d7dfb.js",
+    "static/js/2.8d1e75af.chunk.js",
+    "static/js/main.bc5d780f.chunk.js"
+  ]
+}
